@@ -1,0 +1,19 @@
+AAPS Dev Team
+	AAPS to Powercurve Dev
+		Big Picture
+			Front-end 
+			Data Transfer and Store
+			Business Logic
+		Detail 
+			Data transaction method(P0)
+			Request Data format/Mapping with Front-end format(P0)
+			Data encrypt method(P0)
+			MQ Message send to RUS and How RUS transaction MQ to SOAP API
+			Powercurve Decrypt metheod(Optional)
+			Decrypt Request is it same as Request before encrypt in AAPS?(P1)
+			Response
+			Response decrypt method
+			加密解密器
+	AAPS to SAS ID Dev
+		Only one questions!
+			Is there any request maaping same as Response??????????????????????????????????????????????????????????????
